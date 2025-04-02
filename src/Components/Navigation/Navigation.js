@@ -1,7 +1,7 @@
 import React from 'react'; 
 import { categoryNames } from '../../utils.js'; 
 import './Navigation.css'; 
-import logo from '../../images/logo.svg'; 
+import logo from './img/logo (2).png'; 
 
 console.log('hello'); 
 
